@@ -22,17 +22,20 @@ SHOW YOUR SUPPORT.
 Project Walk-Through
 
 ## Home Page.
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/2cdc0f79-861a-4f5c-a2f4-977ad9e171b2)
 
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/dfdeede1-a0b4-4cca-8f9b-75467b354488)
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/1dde720d-b846-439b-9388-b4eaaf8e9de1)
 
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/83e5d93d-3b6d-4755-acad-b6606f457aff)
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/5aefbae7-5156-4d35-ae8b-1f1128371f7b)
 
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/5d483d3c-b561-4069-8243-d904ae98c613)
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/4e53384b-844a-4160-b2a6-979c3744f828)
 
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/ba2e940b-5487-4c5a-82bf-462003d02adf)
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/9bf1a65a-ecf0-4df1-97ac-ead9e41c0773)
 
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/1ff51188-b409-4fdc-8aa2-08226b60c1cf)
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/2e284042-29ab-4f04-888c-53b4c860905a)
+
+
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/ba4f5f46-cf01-4970-a7cf-f7578e9444be)
+
 
 
 
@@ -63,11 +66,11 @@ Feature title & subtitle: It shows the main sentences of the website.
 
 ## SIGN-IN PAGE.
 
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/5aa302bc-d4b0-44c0-b8d6-42b2c2d0df5a)
 
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/dbd7c94f-42fb-47b0-bdd3-5f8eb1caf6f9)
 
+![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/ffd2f22e-6d22-4970-b620-1dca8f6143bd)
 
-![image](https://github.com/Arfiyatabassum/Netflix-clone/assets/147414285/d099ade8-f310-4e6d-8515-64073a2b94b0)
 
 
 The Sign-in Page consists of 3 main sections:
